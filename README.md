@@ -30,3 +30,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 "# m3h-sasaki-0924m3h" 
 "# m3h-sasaki-0924it" 
 "# m3h-sasaki-nira0924" 
+"# m3hsasaki" 
